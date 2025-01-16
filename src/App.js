@@ -1,9 +1,9 @@
 import React from "react";
-import {Eventdata2} from "./event-data";
+import RefsFunc from "./refs-class";
 
 function App() {
   
-  return <Eventdata2/>
+  return <RefsFunc/>
 }
 
 export default App;
